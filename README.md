@@ -2,7 +2,7 @@
 
 This little project consists of a Rust-based egui app for solving Sudoku problems via SAT reduction.
 
-<img width="750" alt="GUI screenshot" src="https://github.com/user-attachments/assets/930fce6b-8db9-4de4-bb5c-6f999c6ae992" />
+<img width="750" alt="GUI screenshot" src="https://github.com/user-attachments/assets/eaa70336-f5c4-4973-9eb8-6e46c8041c36" />
 
 #### What it can do:
 
