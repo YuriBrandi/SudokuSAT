@@ -19,7 +19,7 @@ This little project consists of a Rust-based egui app for solving Sudoku problem
 
 ### Binaries
 
-Binaries are available for Windows, MacOS and Linux here: https://github.com/YuriBrandi/Sudoku-temp/releases
+Binaries are available for Windows, MacOS and Linux here: https://github.com/YuriBrandi/SudokuSAT/releases
 
 *Note: may not run in a virtualized Windows install if hardware acceleration is missing.*
 
